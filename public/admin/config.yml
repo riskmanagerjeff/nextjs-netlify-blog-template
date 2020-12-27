@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: riskmanagerjeff/nextjs-netlify-blog-template # your GitHub username and repository name, separated by a slash
   branch: master
 media_folder: public/images
